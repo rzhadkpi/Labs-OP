@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Laba_1.cpp" />
+    <ClCompile Include="choosemode.cpp" />
+    <ClCompile Include="functions.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="pointermode.cpp" />
+    <ClCompile Include="streammode.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="choosemode.h" />
+    <ClInclude Include="functions.h" />
+    <ClInclude Include="pointermode.h" />
+    <ClInclude Include="streammode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

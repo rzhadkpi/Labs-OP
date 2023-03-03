@@ -1,2 +1,10 @@
-﻿  Laba_1.cpp
+﻿  choosemode.cpp
+  functions.cpp
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(86,70): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(86,98): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(91,35): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  pointermode.cpp
+  streammode.cpp
+  Создание кода...
   Laba_1.vcxproj -> C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\x64\Debug\Laba_1.exe
