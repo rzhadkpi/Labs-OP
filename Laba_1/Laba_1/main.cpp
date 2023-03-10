@@ -19,7 +19,6 @@ int main(int argc, char** argv) {
 
 	int mode;
 	FILE* fileC = nullptr;
-	std::ifstream fileCPP;
 
 	if (choose_mode(argc, argv, mode) == 0) {
 		std::cout << "Error. You can use only: \"-mode FilePointer\" or \"-mode FileStream\"" << std::endl;
@@ -32,6 +31,8 @@ int main(int argc, char** argv) {
 	}
 	else if (mode == 1) {
 		std::cout << " ----FileStream mode---" << std::endl;
+		std::string filename_s{ get_name_of_file("Enter name of file: ")};
+		stream_mode(filename_s);
 	}
 	return 0;
 }

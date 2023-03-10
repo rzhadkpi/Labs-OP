@@ -1,0 +1,15 @@
+﻿  choosemode.cpp
+  functions.cpp
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(54,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(62,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(125,70): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(125,98): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(130,35): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  pointermode.cpp
+  streammode.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 269 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Laba_1.vcxproj -> C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\x64\Release\Laba_1.exe

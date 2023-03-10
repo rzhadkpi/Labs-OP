@@ -1,9 +1,9 @@
-﻿  choosemode.cpp
-  functions.cpp
-C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(86,70): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(86,98): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(91,35): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
-  main.cpp
+﻿  functions.cpp
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(54,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(62,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(125,70): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(125,98): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rzhad\Documents\GitHub\Labs-OP\Laba_1\Laba_1\functions.cpp(130,35): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
   pointermode.cpp
   streammode.cpp
   Создание кода...
