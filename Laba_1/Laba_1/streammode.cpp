@@ -47,7 +47,7 @@ void fill_file(const std::string& filename) {
 
 	void parse_rows(const std::string& filename);
 
-	std::ofstream out(filename);
+	std::ofstream out(filename, std::ios::app);
 	if (!out.is_open()) {
 		std::cout << "Error. File is not open" << std::endl;
 		return;

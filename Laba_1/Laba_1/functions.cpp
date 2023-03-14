@@ -81,7 +81,7 @@ void find_max_digit_sequence(std::string& row, bool& flag) {
 		//add += std::to_string(word_length + 1);
 		add += ")";
 
-		if (word_end == row.length() - 1 ) {
+		if (word_end == row.length() - 1) {
 			row.insert(word_end + 1, add);
 		}
 		else {

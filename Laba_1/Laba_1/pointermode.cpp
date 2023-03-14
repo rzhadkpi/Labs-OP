@@ -11,7 +11,7 @@ char* get_name_of_file() {
 }
 
 void fill_file(FILE* file, const char* filename) {
-	file = fopen(filename, "w");
+	file = fopen(filename, "a");
 	if (file == NULL) {
 		std::cout << "Error. Can not create file\n";
 		return;
